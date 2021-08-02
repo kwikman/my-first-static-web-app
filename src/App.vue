@@ -1,5 +1,5 @@
 <template>
-  <div>kw Hello {{ value }}</div>
+  <div>kw 2 Hello {{ value }}</div>
 </template>
 
 <script>
